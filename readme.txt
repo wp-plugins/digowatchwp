@@ -1,5 +1,5 @@
 === DigoWatchWP ===
-Contributors: Wolfgang 'Digo' Hollin
+Contributors: digo
 Donate link: http://www.showhypnose.org/donate.php
 Tags: anti-spam, anti-fraud, spamlinks, linkspam, security
 Requires at least: 2.1
