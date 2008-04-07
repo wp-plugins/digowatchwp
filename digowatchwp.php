@@ -2,7 +2,7 @@
 /*
 Plugin Name: DigoWatchWP
 Plugin URI: http://www.showhypnose.org/blog/2008/03/19/digowatchwp-an-anti-fraud-wordpress-plugin/
-Description: An anti-fraud plugin for Plugin
+Description: An anti-fraud plugin for WordPress
 Version: 0.9
 Author: Wolfgang Digo Hollin
 Author URI: http://www.showhypnose.org/blog/
