@@ -3,7 +3,7 @@ Contributors: digo
 Donate link: http://www.showhypnose.org/donate.php
 Tags: anti-spam, anti-fraud, spamlinks, linkspam, security
 Requires at least: 2.1
-Tested up to: 2.5
+Tested up to: 2.5.1
 Stable tag: 0.9
 
 The plugin DigoWatchWP scans your blog posts and pages for changes.
